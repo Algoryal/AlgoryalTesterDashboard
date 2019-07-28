@@ -1,25 +1,21 @@
 {
-    "title": "SB Admin 2",
-    "name": "startbootstrap-sb-admin-2",
+    "title": "AlgoryalTester Dashboard",
+    "name": "algoryal-tester-dashboard",
     "version": "4.0.6",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "An open source Bootstrap 4 admin theme.",
+    "description": "An open source Python unit-testing library and web dashboard",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template",
-        "admin",
-        "app"
+        "python",
+        "algoryal",
+        "web",
+        "dashboard"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/sb-admin-2",
+    "homepage": "https://github.com/Algoryal/AlgoryalTesterDashboard",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/Algoryal/AlgoryalTesterDashboard/issues",
+        "email": "contact@algoryal.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
